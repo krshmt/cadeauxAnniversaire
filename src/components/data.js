@@ -9,14 +9,14 @@ export const projects = [
   },
   {
     title: "Furious black PreWorkout - Cola",
-    src: "/images/13.jpg"
+    src: "/images/20.webp"
   },
   {
     title: "Arrival T-shirt - Black",
     src: "/images/14.jpg"
   },
   {
-    title: "Whey Native - Vanille",
-    src: "/images/15.jpg"
+    title: "Whey Native 4kg - Vanille",
+    src: "/images/15.png"
   }
 ]
