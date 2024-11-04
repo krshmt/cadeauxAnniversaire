@@ -1,3 +1,4 @@
+//ts-nocheck
 import React, { useEffect, useRef } from 'react'
 import { useFrame, useThree } from '@react-three/fiber'
 import { motion } from "framer-motion-3d"
