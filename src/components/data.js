@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Furious black PreWorkout - Cola",
-    src: "/images/20.webp"
+    src: "/images/13.jpg"
   },
   {
     title: "Gymshark Arrival T-shirt - Black",
@@ -18,5 +18,25 @@ export const projects = [
   {
     title: "Whey Native 4kg - Vanille",
     src: "/images/15.png"
+  },
+  {
+    title: "Maillot sérigraphé - XL",
+    src: "/images/16.jfif"
+  },
+  {
+    title: "Seiko Mod Arabic Dial",
+    src: "/images/17.jpg"
+  },
+  {
+    title: "CLS 63 AMG W218 Facelift (précis) ",
+    src: "/images/19.jpg"
+  },
+  {
+    title: "J'ai plus d'inspiration",
+    src: "/images/21.png"
+  },
+  {
+    title: "C'est quand l'anniv' ?",
+    src: "/images/22.png"
   }
 ]
