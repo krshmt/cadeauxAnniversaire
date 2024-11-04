@@ -12,7 +12,7 @@ export const projects = [
     src: "/images/20.webp"
   },
   {
-    title: "Arrival T-shirt - Black",
+    title: "Gymshark Arrival T-shirt - Black",
     src: "/images/14.jpg"
   },
   {
