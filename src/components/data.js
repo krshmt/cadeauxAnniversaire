@@ -28,12 +28,8 @@ export const projects = [
     src: "/images/17.jpg"
   },
   {
-    title: "CLS 63 AMG W218 Facelift (précis) ",
-    src: "/images/19.jpg"
-  },
-  {
-    title: "J'ai plus d'inspiration",
-    src: "/images/21.png"
+    title: "El mordjène et ...",
+    src: "/images/25.jpg"
   },
   {
     title: "C'est quand l'anniv' ?",
