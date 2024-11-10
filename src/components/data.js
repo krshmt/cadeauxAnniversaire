@@ -4,20 +4,20 @@ export const projects = [
     src: "/images/11.jpg"
   },
   {
-    title: "ASTRO LOOSE BAGGY JEANS - 30/32",
-    src: "/images/12.jpg"
-  },
-  {
     title: "Furious black PreWorkout - Cola",
     src: "/images/13.jpg"
+  },
+  {
+    title: "Whey Native 4kg - Vanille",
+    src: "/images/15.png"
   },
   {
     title: "Gymshark Arrival T-shirt - Black",
     src: "/images/14.jpg"
   },
   {
-    title: "Whey Native 4kg - Vanille",
-    src: "/images/15.png"
+    title: "ASTRO LOOSE BAGGY JEANS - 30/32",
+    src: "/images/12.jpg"
   },
   {
     title: "Maillot sérigraphé - XL",
